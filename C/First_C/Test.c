@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-    system("chcp 1251 > nul & cls");
+    system("chcp 1251 > nul & cls"); // локалізація консолі
 
     
     }
